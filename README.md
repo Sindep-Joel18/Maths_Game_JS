@@ -18,9 +18,13 @@ Players answer a set of 7 multiplication questions within a time limit to score 
 🎯 Highlights the correct answer when the player is wrong
 
 📂 Project Structure
+
 Quiz_Game/
+
 │── index.html   # Main HTML structure
+
 │── script.js    # Game logic with JavaScript
+
 └── README.md    # Project documentation  
 
 ⚙️ How It Works
