@@ -56,5 +56,3 @@ Clone this repository or download the files.
 Open index.html in your browser.
 
 Click Start Game and play! 🎉
-
-<img width="2736" height="1824" alt="Screenshot from 2025-08-17 22-52-02" src="https://github.com/user-attachments/assets/3694097b-c176-4d60-9023-68c5219bfe17" />
